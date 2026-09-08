@@ -1,2 +1,25 @@
-# my-first-repository
-first repository i ve ever made
+# 1
+## 2
+###### 6
+
+текст
+---
+*italics*
+**Bold**
+~~зачеркнутый~~
+| заголовок |  **заголовок** |
+|:--- | ---:|
+| много текста ваще | еще больше текста | 
+
+
+>цитата
+>еще одна тут
+
+```python
+print("hi")
+```
+[link](https://t.me/xVanya23xSHP)
+
+# first
+*first
+*second
